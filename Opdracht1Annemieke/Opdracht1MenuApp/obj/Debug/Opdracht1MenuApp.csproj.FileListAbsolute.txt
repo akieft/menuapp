@@ -1,0 +1,14 @@
+C:\Users\dave-\c#-projecten\Opdracht1MenuApp\Opdracht1MenuApp\bin\Debug\Opdracht1MenuApp.exe.config
+C:\Users\dave-\c#-projecten\Opdracht1MenuApp\Opdracht1MenuApp\bin\Debug\Opdracht1MenuApp.exe
+C:\Users\dave-\c#-projecten\Opdracht1MenuApp\Opdracht1MenuApp\bin\Debug\Opdracht1MenuApp.pdb
+C:\Users\dave-\c#-projecten\Opdracht1MenuApp\Opdracht1MenuApp\obj\Debug\Opdracht1MenuApp.csprojAssemblyReference.cache
+C:\Users\dave-\c#-projecten\Opdracht1MenuApp\Opdracht1MenuApp\obj\Debug\Opdracht1MenuApp.csproj.CoreCompileInputs.cache
+C:\Users\dave-\c#-projecten\Opdracht1MenuApp\Opdracht1MenuApp\obj\Debug\Opdracht1MenuApp.exe
+C:\Users\dave-\c#-projecten\Opdracht1MenuApp\Opdracht1MenuApp\obj\Debug\Opdracht1MenuApp.pdb
+C:\Users\dave-\c#-projecten\Opdracht1Annemieke\Opdracht1MenuApp\bin\Debug\Opdracht1MenuApp.exe.config
+C:\Users\dave-\c#-projecten\Opdracht1Annemieke\Opdracht1MenuApp\bin\Debug\Opdracht1MenuApp.exe
+C:\Users\dave-\c#-projecten\Opdracht1Annemieke\Opdracht1MenuApp\bin\Debug\Opdracht1MenuApp.pdb
+C:\Users\dave-\c#-projecten\Opdracht1Annemieke\Opdracht1MenuApp\obj\Debug\Opdracht1MenuApp.csprojAssemblyReference.cache
+C:\Users\dave-\c#-projecten\Opdracht1Annemieke\Opdracht1MenuApp\obj\Debug\Opdracht1MenuApp.csproj.CoreCompileInputs.cache
+C:\Users\dave-\c#-projecten\Opdracht1Annemieke\Opdracht1MenuApp\obj\Debug\Opdracht1MenuApp.exe
+C:\Users\dave-\c#-projecten\Opdracht1Annemieke\Opdracht1MenuApp\obj\Debug\Opdracht1MenuApp.pdb
